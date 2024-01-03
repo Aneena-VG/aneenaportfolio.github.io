@@ -1,5 +1,7 @@
 # Aneena V G
 <img src="pic1.jpeg" alt="Aneena V G" width="200"/>
+
+
 ## Computer Science & Engineering Undergraduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneena-vg-88b808206) [![GitHub](https://img.shields.io/badge/GitHub-AneenaVG-yellow)](https://github.com/AneenaVG) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneenavg0888@gmail.com)
