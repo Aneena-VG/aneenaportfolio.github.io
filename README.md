@@ -5,9 +5,7 @@
 ## Computer Science & Engineering Undergraduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneena-vg-88b808206) [![GitHub](https://img.shields.io/badge/GitHub-AneenaVG-yellow)](https://github.com/AneenaVG) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneenavg0888@gmail.com)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aneena-vg-88b808206" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aneena-vg-88b808206?trk=profile-badge">Aneena VG</a></div>
-              
+
 
 
 
